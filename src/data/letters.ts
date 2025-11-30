@@ -13,13 +13,7 @@ export const letters = [
     preview: 'Terimakasih untuk segala hal...',
     content: "Terimakasih untuk segala hal yang ada. Dari sebuah kesalahan, pengalaman, dan pemahaman tentang apa yang kau alami, akhirnya kau tersadar dan kembali kepada jatidirimu. Satu hal yang ingin kukatakan: teruslah istiqomah dalam menjalani hari-hari. Ingatlah, kejujuran adalah hal yang sangat indah, karena di sanalah letak kebahagiaan dan ketenangan jiwa dalam perjalanan hidup ini.",
   },
-  {
-    id: 3,
-    title: 'Support System',
-    date: '29 Agustus 2023',
-    preview: 'Jangan pernah merasa sendiri...',
-    content: "Jangan pernah merasa sendiri, aku selalu di sini untukmu. Ingat pesanku: jika ingin meluapkan perasaan, luapkanlah padaku. Terima kasih atas semua yang kamu lakukan untuk orang-orang yang membutuhkanmu. Terima kasih sudah menjadi anak yang baik bagi Ibu dan Ayah, serta adik yang baik bagi Teteh. Aku bangga memilikimu, aku senang dan bahagia bersamamu. Mencintaimu, sayang. ❤️",
-  },
+
   {
     id: 4,
     title: 'Ulang Tahunku',
